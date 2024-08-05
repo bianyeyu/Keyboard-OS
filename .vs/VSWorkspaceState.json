@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\Config",
+    "\\Models",
+    "\\Operations",
+    "\\Services",
+    "\\Tests",
+    "\\UI"
+  ],
+  "SelectedNode": "\\Services\\TouchpadService.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+C:\Users\Nova\Desktop\Keyboard OS\Keyboard-OS\obj\Debug\net5.0-windows\KeyboardOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nova\Desktop\Keyboard OS\Keyboard-OS\obj\Debug\net5.0-windows\KeyboardOS.AssemblyInfoInputs.cache
+C:\Users\Nova\Desktop\Keyboard OS\Keyboard-OS\obj\Debug\net5.0-windows\KeyboardOS.AssemblyInfo.cs
+C:\Users\Nova\Desktop\Keyboard OS\Keyboard-OS\obj\Debug\net5.0-windows\KeyboardOS.csproj.CoreCompileInputs.cache
+C:\Users\Nova\Desktop\Keyboard OS\Keyboard-OS\obj\Debug\net5.0-windows\KeyboardOS.sourcelink.json

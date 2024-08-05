@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyboardOS", "KeyboardOS.csproj", "{00934EAF-F4AE-485F-AC01-E14BFFA5DFF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyboardOS", "KeyboardOS.csproj", "{D9C20FAE-D729-4DEE-916E-DDA250C9A5A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{00934EAF-F4AE-485F-AC01-E14BFFA5DFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00934EAF-F4AE-485F-AC01-E14BFFA5DFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00934EAF-F4AE-485F-AC01-E14BFFA5DFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00934EAF-F4AE-485F-AC01-E14BFFA5DFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C20FAE-D729-4DEE-916E-DDA250C9A5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C20FAE-D729-4DEE-916E-DDA250C9A5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C20FAE-D729-4DEE-916E-DDA250C9A5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C20FAE-D729-4DEE-916E-DDA250C9A5A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FC36C55A-9C08-416B-8CF8-91A5012A2826}
+		SolutionGuid = {00D81EA0-BC0C-4C4F-BEE2-96FBB9ADF845}
 	EndGlobalSection
 EndGlobal
